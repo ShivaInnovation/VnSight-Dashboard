@@ -4,7 +4,6 @@ E:\Interview_Hands_On\Angular\AngularDashboard\VnSight.API\bin\Debug\netcoreapp2
 E:\Interview_Hands_On\Angular\AngularDashboard\VnSight.API\bin\Debug\netcoreapp2.2\VnSight.API.dll
 E:\Interview_Hands_On\Angular\AngularDashboard\VnSight.API\bin\Debug\netcoreapp2.2\VnSight.API.pdb
 E:\Interview_Hands_On\Angular\AngularDashboard\VnSight.API\obj\Debug\netcoreapp2.2\VnSight.API.csprojAssemblyReference.cache
-E:\Interview_Hands_On\Angular\AngularDashboard\VnSight.API\obj\Debug\netcoreapp2.2\VnSight.API.csproj.CoreCompileInputs.cache
 E:\Interview_Hands_On\Angular\AngularDashboard\VnSight.API\obj\Debug\netcoreapp2.2\VnSight.API.RazorAssemblyInfo.cache
 E:\Interview_Hands_On\Angular\AngularDashboard\VnSight.API\obj\Debug\netcoreapp2.2\VnSight.API.RazorAssemblyInfo.cs
 E:\Interview_Hands_On\Angular\AngularDashboard\VnSight.API\obj\Debug\netcoreapp2.2\VnSight.API.AssemblyInfoInputs.cache
@@ -12,3 +11,6 @@ E:\Interview_Hands_On\Angular\AngularDashboard\VnSight.API\obj\Debug\netcoreapp2
 E:\Interview_Hands_On\Angular\AngularDashboard\VnSight.API\obj\Debug\netcoreapp2.2\VnSight.API.RazorTargetAssemblyInfo.cache
 E:\Interview_Hands_On\Angular\AngularDashboard\VnSight.API\obj\Debug\netcoreapp2.2\VnSight.API.dll
 E:\Interview_Hands_On\Angular\AngularDashboard\VnSight.API\obj\Debug\netcoreapp2.2\VnSight.API.pdb
+E:\Interview_Hands_On\Angular\AngularDashboard\VnSight.API\bin\Debug\netcoreapp2.2\appsettings.Development.json
+E:\Interview_Hands_On\Angular\AngularDashboard\VnSight.API\bin\Debug\netcoreapp2.2\appsettings.json
+E:\Interview_Hands_On\Angular\AngularDashboard\VnSight.API\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
